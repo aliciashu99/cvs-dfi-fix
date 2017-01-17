@@ -1,0 +1,4 @@
+Usage:
+
+java -jar cvs-dfi-fix-1.0-SNAPSHOT.jar table_name source_name path-to-config.properties-file
+
